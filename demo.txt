@@ -1,0 +1,2 @@
+Writing into a txt file
+Creating a updated txt file
